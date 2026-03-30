@@ -19,7 +19,7 @@ astroid == 3.0.2 ; python_version >= '3.9'
 
 # linting rest code snippets
 restructuredtext-lint==1.4.0 ; python_version >= '3.9'
-Pygments == 2.15.1 ; python_version >= '3.9'
+Pygments == 2.20.0 ; python_version >= '3.9'
 rstcheck == 6.2.0 ; python_version >= '3.9'
 
 # Auto-format needs
